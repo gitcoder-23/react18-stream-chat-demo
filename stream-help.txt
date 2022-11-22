@@ -1,0 +1,69 @@
+// Stream
+https://getstream.io/chat/demos/messaging/
+
+https://getstream.io/chat/react-chat/tutorial/
+
+https://codesandbox.io/s/vq5ntv
+
+https://www.npmjs.com/package/stream-chat-react
+
+// Codepen
+https://codepen.io/vishtree/pen/BXzKVg
+
+// login using office github
+
+// Account
+UID:  jwatson7858@gmail.com
+PWD:  Jwatson@007
+
+user: prabhat-cn
+
+APP ID: 1220843
+
+APP KEY: w5f3kzan36q7
+
+// APP
+Name: react-schat-app
+APP ID: 1220844
+APP KEY: qzfagsrw6bkk
+
+30 days free trial
+
+
+
+// Install
+https://getstream.io/chat/docs/sdk/react/
+https://getstream.io/chat/docs/react/tokens_and_authentication/?language=javascript
+yarn add stream-chat stream-chat-react
+
+https://getstream.io/chat/react-chat/tutorial/
+
+// for theme
+https://getstream.io/chat/docs/sdk/react/basics/getting_started/
+
+https://getstream.io/chat/docs/sdk/react/guides/theming/actions/message_actions/
+
+// Channel Features
+https://getstream.io/chat/docs/react/channel_features/?language=javascript
+
+// Channel List
+https://getstream.io/chat/docs/sdk/react/components/core-components/channel_list/
+
+// For filter & Sort
+https://getstream.io/chat/docs/javascript/query_channels/?language=javascript#query-parameters
+
+// ChatContext
+https://getstream.io/chat/docs/sdk/react/components/core-components/chat/
+
+https://getstream.io/chat/docs/sdk/react/components/contexts/chat_context/
+
+// Channel User List
+https://getstream.io/chat/docs/sdk/react/guides/channel-user-lists/
+
+// Message List Notifications
+
+https://getstream.io/chat/docs/sdk/react/guides/customization/adding_messagelist_notification/
+
+// Translate
+https://getstream.io/chat/docs/sdk/react/guides/theming/translations/
+
