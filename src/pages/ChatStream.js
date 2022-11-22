@@ -109,8 +109,17 @@ const ChatStream = () => {
           <Thread />
         </Channel>
       </Chat>
+      <style>{customCss}</style>
     </>
   );
 };
 
 export default ChatStream;
+
+const customCss = `
+
+.str-chat__input-flat .str-chat__textarea>textarea {
+  background: #ecebeb54 !important;
+}
+
+`;
