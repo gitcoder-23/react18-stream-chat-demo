@@ -67,3 +67,9 @@ https://getstream.io/chat/docs/sdk/react/guides/customization/adding_messagelist
 // Translate
 https://getstream.io/chat/docs/sdk/react/guides/theming/translations/
 
+
+
+1> Need create Account In Stream(https://getstream.io/). Need non Trial Account.  
+2> The trial acccount for only 30 days useful.
+3> Create App-> Need (App Name, App Id, App Key, App Secret).
+
