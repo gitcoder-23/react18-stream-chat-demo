@@ -122,4 +122,8 @@ const customCss = `
   background: #ecebeb54 !important;
 }
 
+.str-chat__send-button {
+  display: block !important;
+}
+
 `;
